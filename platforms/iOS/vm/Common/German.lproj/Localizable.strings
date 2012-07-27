@@ -21,7 +21,7 @@
 "SavedMsg" = "Nachricht wurde gespeichert.";
 "Failed" = "Fehler";
 "FailedMsg" = "Das Schicken/Senden hat nicht funktioniert. Die Nachricht wurde nicht verschickt.";
-"helpEmailAddress" = "aValidEMailAddressForSupportWouldGoHere";
+"helpEmailAddress" = "example@example.com";
 "helpSubject" = "Scratch hatte Schluckauf";
 "helpMessage" = "Etwas unvorhergesehenes ist passiert und wir würden gerne dem Programmierer Information darüber schicken damit er es vielleicht reparieren kann.";
 "herding" = "Dabei Flöhe zu hüten, arbeite wie verrückt, Sekunde noch...";

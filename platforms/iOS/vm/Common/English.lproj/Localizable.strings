@@ -21,7 +21,7 @@
 "SavedMsg" = "Message has been saved.";
 "Failed" = "Failed";
 "FailedMsg" = "Sending has failed.  Message has not been sent.";
-"helpEmailAddress" = "aValidEMailAddressForSupportWouldGoHere";
+"helpEmailAddress" = "example@example.com";
 "helpSubject" = "Scratch coughed a HairBall";
 "helpMessage" = "Oops something happened and we'd like to send some information to the programmers to see if we can fix it";
 "herding" = "Herding cats, working furiously, wait...";

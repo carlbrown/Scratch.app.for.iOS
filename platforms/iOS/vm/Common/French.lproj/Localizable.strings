@@ -21,7 +21,7 @@
 "SavedMsg" = " Le message a été enregistré";
 "Failed" = "Raté";
 "FailedMsg" = "L'envoi a échoué. Le message n'a pas été envoyé";
-"helpEmailAddress" = "aValidEMailAddressForSupportWouldGoHere";
+"helpEmailAddress" = "example@example.com";
 "helpSubject" = "Scratch toussa une boule de cheveux";
 "helpMessage" = "Attention quelque chose s'est passé et nous aimerions envoyer de l'information aux programmeurs pour voir si nous pouvons le réparer";
 "herding" = "L'élevage de Chats, travaille avec acharnement, attente";

@@ -169,7 +169,7 @@ presentationSpace,loginToScratchCompleted,brokenWalkBackString,webSite,squeakVMI
 - (void) doEmail {
 	if (!([MFMailComposeViewController canSendMail]))
 		return;
-#error you must alter the localization data to supply a valid email address
+//#error you must alter the localization data to supply a valid email address
 	NSString *helpEmailAddress = NSLocalizedString(@"helpEmailAddress",nil);
 	NSString *helpSubject = NSLocalizedString(@"helpSubject",nil);
 	NSString *helpMessage = NSLocalizedString(@"helpMessage",nil);
